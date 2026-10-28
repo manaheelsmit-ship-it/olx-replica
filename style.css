@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    width: 95%;
+    margin: auto;
+    /* grid-template-columns: auto auto auto auto; */
+    justify-content: center;
+    gap: 10px;
+}
+.h1{
+text-align: center;
+}
+.container{
+background-color: yellowgreen!important;
+}
